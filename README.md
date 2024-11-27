@@ -1,2 +1,2 @@
 # prueba2
-hare un clon
+Realizare un clon
